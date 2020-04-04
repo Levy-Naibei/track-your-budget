@@ -1,6 +1,5 @@
 ## Track your Expense
 
-* App is built with Vanilla JS
+* App is built with plain JS
 
-clone the repo 
-: git clone `https://github.com/Levy-Naibei/track-your-budget`
+* clone the repo: git clone `https://github.com/Levy-Naibei/track-your-budget`
